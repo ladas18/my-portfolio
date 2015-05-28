@@ -1,2 +1,2 @@
 # my-portfolio
-The source code yo my portfolio website pages.
+The source code to my portfolio website pages.
